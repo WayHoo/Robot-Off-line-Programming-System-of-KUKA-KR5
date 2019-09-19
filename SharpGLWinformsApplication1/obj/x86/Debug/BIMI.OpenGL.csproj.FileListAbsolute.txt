@@ -1,0 +1,108 @@
+C:\Users\胡伟\Desktop\OpenGL_RobotSim-master\OpenGL机器人仿真\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+C:\Users\胡伟\Desktop\OpenGL_RobotSim-master\OpenGL机器人仿真\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+C:\Users\胡伟\Desktop\OpenGL_RobotSim-master\OpenGL机器人仿真\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+C:\Users\胡伟\Desktop\OpenGL_RobotSim-master\OpenGL机器人仿真\SharpGLWinformsApplication1\bin\Debug\MathNet.Numerics.dll
+C:\Users\胡伟\Desktop\OpenGL_RobotSim-master\OpenGL机器人仿真\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+C:\Users\胡伟\Desktop\OpenGL_RobotSim-master\OpenGL机器人仿真\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\胡伟\Desktop\OpenGL_RobotSim-master\OpenGL机器人仿真\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+C:\Users\胡伟\Desktop\OpenGL_RobotSim-master\OpenGL机器人仿真\SharpGLWinformsApplication1\bin\Debug\MathNet.Numerics.xml
+C:\Users\胡伟\Desktop\OpenGL_RobotSim-master\OpenGL机器人仿真\SharpGLWinformsApplication1\obj\x86\Debug\BIMI.OpenGL.csprojAssemblyReference.cache
+C:\Users\胡伟\Desktop\OpenGL_RobotSim-master\OpenGL机器人仿真\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+C:\Users\胡伟\Desktop\OpenGL_RobotSim-master\OpenGL机器人仿真\SharpGLWinformsApplication1\obj\x86\Debug\BIMI.PointCloud.SharpGLForm.resources
+C:\Users\胡伟\Desktop\OpenGL_RobotSim-master\OpenGL机器人仿真\SharpGLWinformsApplication1\obj\x86\Debug\BIMI.OpenGL.csproj.GenerateResource.cache
+C:\Users\胡伟\Desktop\OpenGL_RobotSim-master\OpenGL机器人仿真\SharpGLWinformsApplication1\obj\x86\Debug\BIMI.OpenGL.csproj.CoreCompileInputs.cache
+C:\Users\胡伟\Desktop\OpenGL_RobotSim-master\OpenGL机器人仿真\SharpGLWinformsApplication1\obj\x86\Debug\BIMI.OpenGL.csproj.CopyComplete
+C:\Users\胡伟\Desktop\OpenGL_RobotSim-master\OpenGL机器人仿真\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+C:\Users\胡伟\Desktop\OpenGL_RobotSim-master\OpenGL机器人仿真\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（MDH建模） - 副本\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（MDH建模） - 副本\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（MDH建模） - 副本\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（MDH建模） - 副本\SharpGLWinformsApplication1\bin\Debug\MathNet.Numerics.dll
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（MDH建模） - 副本\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（MDH建模） - 副本\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（MDH建模） - 副本\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（MDH建模） - 副本\SharpGLWinformsApplication1\bin\Debug\MathNet.Numerics.xml
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（MDH建模） - 副本\SharpGLWinformsApplication1\obj\x86\Debug\BIMI.OpenGL.csprojAssemblyReference.cache
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（MDH建模） - 副本\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（MDH建模） - 副本\SharpGLWinformsApplication1\obj\x86\Debug\BIMI.PointCloud.SharpGLForm.resources
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（MDH建模） - 副本\SharpGLWinformsApplication1\obj\x86\Debug\BIMI.OpenGL.csproj.GenerateResource.cache
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（MDH建模） - 副本\SharpGLWinformsApplication1\obj\x86\Debug\BIMI.OpenGL.csproj.CoreCompileInputs.cache
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（MDH建模） - 副本\SharpGLWinformsApplication1\obj\x86\Debug\BIMI.OpenGL.csproj.CopyComplete
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（MDH建模） - 副本\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（MDH建模） - 副本\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真\SharpGLWinformsApplication1\bin\Debug\MathNet.Numerics.dll
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真\SharpGLWinformsApplication1\bin\Debug\MathNet.Numerics.xml
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真\SharpGLWinformsApplication1\obj\x86\Debug\BIMI.OpenGL.csprojAssemblyReference.cache
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真\SharpGLWinformsApplication1\obj\x86\Debug\BIMI.PointCloud.SharpGLForm.resources
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真\SharpGLWinformsApplication1\obj\x86\Debug\BIMI.OpenGL.csproj.GenerateResource.cache
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真\SharpGLWinformsApplication1\obj\x86\Debug\BIMI.OpenGL.csproj.CoreCompileInputs.cache
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真\SharpGLWinformsApplication1\obj\x86\Debug\BIMI.OpenGL.csproj.CopyComplete
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（ KUKA KR5）\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（ KUKA KR5）\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（ KUKA KR5）\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（ KUKA KR5）\SharpGLWinformsApplication1\bin\Debug\MathNet.Numerics.dll
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（ KUKA KR5）\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（ KUKA KR5）\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（ KUKA KR5）\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（ KUKA KR5）\SharpGLWinformsApplication1\bin\Debug\MathNet.Numerics.xml
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（ KUKA KR5）\SharpGLWinformsApplication1\obj\x86\Debug\BIMI.OpenGL.csprojAssemblyReference.cache
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（ KUKA KR5）\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（ KUKA KR5）\SharpGLWinformsApplication1\obj\x86\Debug\BIMI.PointCloud.SharpGLForm.resources
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（ KUKA KR5）\SharpGLWinformsApplication1\obj\x86\Debug\BIMI.OpenGL.csproj.GenerateResource.cache
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（ KUKA KR5）\SharpGLWinformsApplication1\obj\x86\Debug\BIMI.OpenGL.csproj.CoreCompileInputs.cache
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（ KUKA KR5）\SharpGLWinformsApplication1\obj\x86\Debug\BIMI.OpenGL.csproj.CopyComplete
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（ KUKA KR5）\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（ KUKA KR5）\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（ KUKA KR5）\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.manifest
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（ KUKA KR5）\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.application
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（ KUKA KR5）\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe.manifest
+E:\Document\学习文档\大四下学期学习文档\OpenGL_RobotSim-master\OpenGL机器人仿真（ KUKA KR5）\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.application
+E:\Document\学习文档\大四下学期学习文档\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+E:\Document\学习文档\大四下学期学习文档\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.manifest
+E:\Document\学习文档\大四下学期学习文档\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.application
+E:\Document\学习文档\大四下学期学习文档\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+E:\Document\学习文档\大四下学期学习文档\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+E:\Document\学习文档\大四下学期学习文档\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\bin\Debug\MathNet.Numerics.dll
+E:\Document\学习文档\大四下学期学习文档\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+E:\Document\学习文档\大四下学期学习文档\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+E:\Document\学习文档\大四下学期学习文档\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+E:\Document\学习文档\大四下学期学习文档\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\bin\Debug\MathNet.Numerics.xml
+E:\Document\学习文档\大四下学期学习文档\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\obj\x86\Debug\BIMI.OpenGL.csprojAssemblyReference.cache
+E:\Document\学习文档\大四下学期学习文档\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+E:\Document\学习文档\大四下学期学习文档\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\obj\x86\Debug\BIMI.PointCloud.SharpGLForm.resources
+E:\Document\学习文档\大四下学期学习文档\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\obj\x86\Debug\BIMI.OpenGL.csproj.GenerateResource.cache
+E:\Document\学习文档\大四下学期学习文档\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\obj\x86\Debug\BIMI.OpenGL.csproj.CoreCompileInputs.cache
+E:\Document\学习文档\大四下学期学习文档\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe.manifest
+E:\Document\学习文档\大四下学期学习文档\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.application
+E:\Document\学习文档\大四下学期学习文档\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\obj\x86\Debug\BIMI.OpenGL.csproj.CopyComplete
+E:\Document\学习文档\大四下学期学习文档\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+E:\Document\学习文档\大四下学期学习文档\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
+D:\Documents\学习文档\本科毕业设计\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.config
+D:\Documents\学习文档\本科毕业设计\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe.manifest
+D:\Documents\学习文档\本科毕业设计\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.application
+D:\Documents\学习文档\本科毕业设计\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.exe
+D:\Documents\学习文档\本科毕业设计\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\bin\Debug\SharpGLWinformsApplication1.pdb
+D:\Documents\学习文档\本科毕业设计\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\bin\Debug\MathNet.Numerics.dll
+D:\Documents\学习文档\本科毕业设计\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\bin\Debug\SharpGL.dll
+D:\Documents\学习文档\本科毕业设计\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\bin\Debug\SharpGL.SceneGraph.dll
+D:\Documents\学习文档\本科毕业设计\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\bin\Debug\SharpGL.WinForms.dll
+D:\Documents\学习文档\本科毕业设计\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\bin\Debug\MathNet.Numerics.xml
+D:\Documents\学习文档\本科毕业设计\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\obj\x86\Debug\BIMI.OpenGL.csprojAssemblyReference.cache
+D:\Documents\学习文档\本科毕业设计\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.Properties.Resources.resources
+D:\Documents\学习文档\本科毕业设计\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\obj\x86\Debug\BIMI.PointCloud.SharpGLForm.resources
+D:\Documents\学习文档\本科毕业设计\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\obj\x86\Debug\BIMI.OpenGL.csproj.GenerateResource.cache
+D:\Documents\学习文档\本科毕业设计\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\obj\x86\Debug\BIMI.OpenGL.csproj.CoreCompileInputs.cache
+D:\Documents\学习文档\本科毕业设计\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe.manifest
+D:\Documents\学习文档\本科毕业设计\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.application
+D:\Documents\学习文档\本科毕业设计\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\obj\x86\Debug\BIMI.OpenGL.csproj.CopyComplete
+D:\Documents\学习文档\本科毕业设计\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.exe
+D:\Documents\学习文档\本科毕业设计\机器人离线编程系统\机器人离线编程系统（ KUKA KR5）\SharpGLWinformsApplication1\obj\x86\Debug\SharpGLWinformsApplication1.pdb
